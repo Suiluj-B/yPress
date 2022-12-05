@@ -1,5 +1,5 @@
 # yPress
-Simple Tool to send custom Keyboardstrokes to any application via a hotkey. They program emulates real keyboard presses sent by hardware with a delay 
+Tool to send custom Keyboardstrokes to any application via a hotkey. The program emulates real keyboard presses sent by hardware with a delay 
 that is randomized to make it look like human input.
 
 You can specify one PID to focus its main window, send a custom key, and return to another PID's main window. 
